@@ -17,5 +17,5 @@ Projeto 2 - Stage 2 do Curso da Rocket Seat na trilha Explorer
 
 ## Contato
 
-andersondutrarb@gmail.com
-21.997992068
+andersondutrarb@gmail.com   |   21.997992068
+
